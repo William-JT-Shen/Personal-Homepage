@@ -34,6 +34,12 @@ href = "/publications"
 #href = "/teaching"
 
 [[navigation]]
+title = "公众号"
+type = "page"
+target = "official_account"
+href = "/official_account"
+
+[[navigation]]
 title = "奖项"
 type = "page"
 target = "awards"

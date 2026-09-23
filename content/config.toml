@@ -67,6 +67,12 @@ href = "/publications"
 #href = "/teaching"
 
 [[navigation]]
+title = "Official Account"
+type = "page"
+target = "official_account"
+href = "/official_account"
+
+[[navigation]]
 title = "Awards"
 type = "page"
 target = "awards"
