@@ -1,0 +1,30 @@
+type = "about"
+title = "关于我"
+
+[profile]
+research_interests = [
+  "复杂系统",
+  "人工智能",
+  "动力系统",
+  "经济学",
+  "金融数学"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "关于我"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "精选论文"
+filter = "selected"
+limit = 5
+
+#[[sections]]
+#id = "news"
+#type = "list"
+#title = "动态"
+#source = "news.toml"

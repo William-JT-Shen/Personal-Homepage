@@ -1,0 +1,32 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "Ferrotec China Scholarship for Helping the Needy and Promoting Education, Academic Year 2024–2025"
+subtitle = "Shanghai University of Finance and Economics"
+date = "2025/12"
+content = "The 'FERROTEC CHINA Scholarship for Poverty Alleviation and Education Promotion' is a scholarship and financial aid program funded by Ferrotec Group's China-based enterprises and established through the efforts of He Xianhan, President of Ferrotec China and an alumnus of Shanghai University of Finance and Economics. It aims to reward students who are outstanding in both academic performance and moral character, and to promote university-enterprise cooperation and educational philanthropy."
+image = "/certificates/2024 - 2025 学年帮困兴教奖学金.jpg"   # ← 卡片里显示证书缩略图
+link = "/certificates/2024 - 2025 学年帮困兴教奖学金.jpg"    # ← 点击标题跳转到证书
+
+[[items]]
+title = "First Prize, People's Scholarship for Outstanding Students, Academic Year 2024-2025"
+subtitle = 'Shanghai University of Finance and Economics'
+date = "2025/12"
+image = "/certificates/2025人民奖学金一等奖.jpg"
+link = "/certificates/2025人民奖学金一等奖.jpg"
+
+[[items]]
+title = "Second Prize, People's Scholarship, Academic Year 2023-2024"
+subtitle = 'Shanghai University of Finance and Economics'
+date = "2024/10"
+image = "/certificates/2024人民奖学金二等奖.jpg"
+link = "/certificates/2024人民奖学金二等奖.jpg"
+
+[[items]]
+title = "Second Place, Men's 100m Freestyle, Swimming Competition, 32nd Sports Meet"
+subtitle = 'Shanghai University of Finance and Economics'
+date = "2023/10"
+image = "/certificates/100自第二.jpg"
+link = "/certificates/100自第二.jpg"

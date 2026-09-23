@@ -1,0 +1,32 @@
+type = "card"
+title = "奖项"
+description = "我获得的荣誉与奖项。"
+
+[[items]]
+title = "2024-2025学年帮困兴教FERROTEC CHINA奖学金"
+subtitle = "上海财经大学"
+date = "2025/12"
+content = "“帮困兴教FERROTEC CHINA奖学金”是由Ferrotec集团在华企业捐资、中国区总裁贺贤汉（上海财经大学校友）推动设立，旨在奖励品学兼优学生并推动校企合作与教育公益的奖助学金项目。"
+image = "/certificates/2024 - 2025 学年帮困兴教奖学金.jpg"   # ← 卡片里显示证书缩略图
+link = "/certificates/2024 - 2025 学年帮困兴教奖学金.jpg"    # ← 点击标题跳转到证书
+
+[[items]]
+title = "2024-2025 学年优秀学生人民奖学金一等奖"
+subtitle = '上海财经大学'
+date = "2025/12"
+image = "/certificates/2025人民奖学金一等奖.jpg"
+link = "/certificates/2025人民奖学金一等奖.jpg"
+
+[[items]]
+title = "2023-2024 学年人民奖学金二等奖"
+subtitle = '上海财经大学'
+date = "2024/10"
+image = "/certificates/2024人民奖学金二等奖.jpg"
+link = "/certificates/2024人民奖学金二等奖.jpg"
+
+[[items]]
+title = "上海财经大学第三十二届运动会游泳比赛男子100米自由泳第二名"
+subtitle = '上海财经大学'
+date = "2023/10"
+image = "/certificates/100自第二.jpg"
+link = "/certificates/100自第二.jpg"
