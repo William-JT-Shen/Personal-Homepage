@@ -1,0 +1,10 @@
+type = "card"
+title = "公众号"
+description = "我的微信公众号精选文章。点击卡片即可阅读全文。"
+
+[[items]]
+title = "【示例】文章标题 —— 替换为你的文章标题"
+subtitle = "微信公众号"
+date = "2026/09"
+content = "一句话简介（可选），介绍这篇文章讲了什么。"
+link = "https://mp.weixin.qq.com/s/替换为你的文章链接"
