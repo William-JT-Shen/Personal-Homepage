@@ -71,7 +71,7 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
             </div>
 
             <div className={`grid ${embedded ? "gap-4" : "gap-6"}`}>
-                {config.items.map((item, index) => (
+                {(config.items ?? []).map((item, index) => (
                     <motion.div
                         key={index}
                         initial={{ opacity: 0, y: 20 }}
