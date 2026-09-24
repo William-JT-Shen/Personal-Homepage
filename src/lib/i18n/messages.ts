@@ -46,6 +46,9 @@ export interface LocaleMessages {
     openInNewTab: string;
     close: string;
   };
+  collection: {
+    back: string;
+  };
   footer: {
     lastUpdated: string;
     builtWithPrism: string;
@@ -100,6 +103,9 @@ const en: LocaleMessages = {
     openInNewTab: 'Open in new tab',
     close: 'Close',
   },
+  collection: {
+    back: '← Back',
+  },
   footer: {
     lastUpdated: 'Last updated',
     builtWithPrism: 'Built with PRISM',
@@ -153,6 +159,9 @@ const zh: LocaleMessages = {
   card: {
     openInNewTab: '在新标签页打开',
     close: '关闭',
+  },
+  collection: {
+    back: '← 返回',
   },
   footer: {
     lastUpdated: '最近更新',
