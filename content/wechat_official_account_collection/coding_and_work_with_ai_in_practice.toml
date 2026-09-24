@@ -1,15 +1,17 @@
 type = "card"
 title = "Coding & Work with AI 实践"
-description = "码农掉发地、、"
+description = "业余码农掉发地、、"
 
 [[items]]
 title = "编程实践积累·用 Selenium + Sci-Hub 批量爬取学术论文"
 date = "2026/06/06"
 content = "详细介绍了如何利用 Selenium 和 Sci-Hub 构建一个自动化工具，实现根据 BibTeX 文件批量下载学术论文 PDF 的功能"
 link = "https://mp.weixin.qq.com/s/oB-J3SgjjRNqNecVzp8Ppg"
+image = "/wechat_images/sci_hub.png"
 
 [[items]]
 title = "人机协作实操·梳理一份优质的研究计划方案"
 date = "2026/05/05"
 content = "记录了通过人机协作方式利用多种大语言模型完成一份研究计划方案的完整实操过程"
 link = "https://mp.weixin.qq.com/s/cEDuARFgWV7Tw8RPDrzFIw"
+image = "/wechat_images/human_with_ai.png"

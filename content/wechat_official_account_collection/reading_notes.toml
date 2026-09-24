@@ -3,7 +3,8 @@ title = "读书笔记"
 description = "记录一些系统学习的知识~"
 
 [[items]]
-title = "【示例】文章标题 —— 替换为你的文章标题"
+title = "Generative AI and Stochastic Thermodynamics -- A Tale of Free Energies"
 date = "2026/09"
-content = "一句话简介（可选），介绍这篇文章讲了什么。"
-link = "https://mp.weixin.qq.com/s/替换为你的文章链接"
+content = "生成式AI & 随机热力学 —— 自由能视角"
+link = "/wechat_official_account_collection/reading_notes_folder/generative_ai_and_stochastic_thermodynamics"
+image = "/wechat_images/generative_ai_and_stochastic_thermodynamics.png"

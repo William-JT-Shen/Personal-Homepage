@@ -1,6 +1,6 @@
 type = "card"
 title = "相约韭吧"
-description = "该公众号的文章合集（简介待补充）。"
+description = "在股市里振兴消费，从我做起"
 
 
 
@@ -10,15 +10,18 @@ title = "量化·策略·布林线"
 date = "2025/11/28"
 content = "介绍了布林线量化交易策略，涵盖其原理、Python代码实现、参数网格搜索优化、Backtrader回测框架应用，以及将中轨替换为考夫曼自适应均线（KAMA）的改进探索"
 link = "https://mp.weixin.qq.com/s/iPjaZEIDTdJDfC-lgKTMpg"
+image = "/wechat_images/bollinger_bands.png"
 
 [[items]]
 title = "量化•回测系统•Backtrader"
 date = "2025/09/19"
 content = "关于使用 Backtrader 库进行量化回测的入门教程，涵盖安装、回测框架搭建、策略编写、Cerebro 引擎及数据源等核心内容"
 link = "https://mp.weixin.qq.com/s/jiB7Ixj4gjPvp2UK1j3Trw"
+image = "/wechat_images/backtrader.png"
 
 [[items]]
 title = "量化•数据获取•Akshare"
 date = "2025/09/01"
 content = "介绍了开源Python金融数据工具AKShare，涵盖其概览、安装方法及股票数据接口（如上交所、深交所市场总貌、地区交易排序、行业成交等）的详细使用说明"
 link = "https://mp.weixin.qq.com/s/t0yDh1SuI9Qbg7WOCo4wdg"
+image = "/wechat_images/akshare.png"
