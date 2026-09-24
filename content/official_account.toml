@@ -1,10 +1,9 @@
 type = "card"
 title = "Official Account"
-description = "Selected articles from my WeChat Official Account (微信公众号). Click a card to read the full article."
+description = "Selected articles from my WeChat Official Accounts (微信公众号). Click a card to browse each account's articles."
 
 [[items]]
-title = "【示例】文章标题 —— 替换为你的文章标题"
+title = "相约韭吧"
 subtitle = "WeChat Official Account"
-date = "2026/09"
-content = "一句话简介（可选），介绍这篇文章讲了什么。"
-link = "https://mp.weixin.qq.com/s/替换为你的文章链接"
+content = "该公众号的文章合集（简介待补充）。"
+link = "/wechat_official_account_collection/xiangyue-jiuba"

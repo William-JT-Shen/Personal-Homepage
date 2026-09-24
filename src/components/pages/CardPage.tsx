@@ -92,8 +92,8 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                                 ) : item.link ? (
                                     <a
                                         href={item.link}
-                                        target="_blank"
-                                        rel="noopener noreferrer"
+                                        target={item.link.startsWith('/') ? undefined : "_blank"}
+                                        rel={item.link.startsWith('/') ? undefined : "noopener noreferrer"}
                                         className="group inline-flex items-center gap-1 hover:text-accent transition-colors duration-200"
                                     >
                                         {item.title}
