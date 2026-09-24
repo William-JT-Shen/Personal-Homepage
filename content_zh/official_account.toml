@@ -5,7 +5,7 @@ description = "由于每个账号只能最多配置10个合集，更详细的合
 [[items]]
 title = "相约韭吧"
 #subtitle = "微信公众号"
-content = "该公众号的文章合集（简介待补充）。"
+content = "在股市里振兴消费，从我做起"
 link = "/wechat_official_account_collection/xiangyue_jiuba"
 
 [[items]]
@@ -29,6 +29,6 @@ link = "/wechat_official_account_collection/ai_theory"
 [[items]]
 title = "Coding & Work with AI 实践"
 #subtitle = "微信公众号"
-content = "码农掉发地、、"
+content = "业余码农掉发地、、"
 link = "/wechat_official_account_collection/coding_and_work_with_ai_in_practice"
 

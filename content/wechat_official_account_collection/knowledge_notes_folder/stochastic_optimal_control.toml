@@ -1,0 +1,10 @@
+type = "card"
+title = "随机系统最优控制"
+description = "主要整理了随机系统最优控制的一般理论、连续随机系统的随机最大值原理和离散随机系统的动态规划法"
+
+
+[[items]]
+title = "概念、问题的标准化转换、庞特里亚金泛函"
+#subtitle = "微信公众号"
+content = "记录一些零散的、即学即用的知识~"
+link = "https://mp.weixin.qq.com/s/b_TEtGsCeLAc_tynPLAOCg"

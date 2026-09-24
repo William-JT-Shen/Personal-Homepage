@@ -3,7 +3,7 @@ title = "知识随记"
 description = "记录一些零散的、即学即用的知识~"
 
 [[items]]
-title = "【示例】文章标题 —— 替换为你的文章标题"
-date = "2026/09"
-content = "一句话简介（可选），介绍这篇文章讲了什么。"
-link = "https://mp.weixin.qq.com/s/替换为你的文章链接"
+title = "随机系统最优控制"
+#subtitle = 参考书目：《随机系统最优控制——理论及应用》方洋旺
+content = "主要整理了随机系统最优控制的一般理论、连续随机系统的随机最大值原理和离散随机系统的动态规划法"
+link = "/wechat_official_account_collection/knowledge_notes_folder/stochastic_optimal_control"

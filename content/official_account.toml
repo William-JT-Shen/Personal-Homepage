@@ -4,7 +4,7 @@ description = "WeChat caps each official account at 10 featured collections, so 
 
 [[items]]
 title = "相约韭吧"
-content = "Article collection of this WeChat official account (intro to be filled in)."
+content = "Revitalizing consumption through the stock market — starting with me."
 link = "/wechat_official_account_collection/xiangyue_jiuba"
 
 [[items]]
@@ -24,5 +24,5 @@ link = "/wechat_official_account_collection/ai_theory"
 
 [[items]]
 title = "Coding & Work with AI in Practice"
-content = "Where programmers lose their hair.."
+content = "Where amateur programmers lose their hair.."
 link = "/wechat_official_account_collection/coding_and_work_with_ai_in_practice"
