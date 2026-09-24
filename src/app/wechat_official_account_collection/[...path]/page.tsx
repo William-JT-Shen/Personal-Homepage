@@ -162,8 +162,9 @@ export default async function WeChatCollectionPage({ params }: { params: Promise
     notFound();
   }
 
-  // Back button only on nested pages (depth >= 2)
-  const parentHref = segments.length >= 2 ? findParentHref(segments) : null;
+  // Back button on every collection page (the "official_account" listing
+  // page is the root level and has none).
+  const parentHref = findParentHref(segments);
 
   return (
     <div className="max-w-3xl mx-auto">
