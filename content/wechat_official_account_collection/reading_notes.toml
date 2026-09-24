@@ -1,0 +1,9 @@
+type = "card"
+title = "读书笔记"
+description = "记录一些系统学习的知识~"
+
+[[items]]
+title = "【示例】文章标题 —— 替换为你的文章标题"
+date = "2026/09"
+content = "一句话简介（可选），介绍这篇文章讲了什么。"
+link = "https://mp.weixin.qq.com/s/替换为你的文章链接"

@@ -1,9 +1,28 @@
 type = "card"
 title = "Official Account"
-description = "Selected articles from my WeChat Official Accounts (微信公众号). Click a card to browse each account's articles."
+description = "WeChat caps each official account at 10 featured collections, so I organize my articles into finer-grained collections here. Click a card to browse each collection."
 
 [[items]]
 title = "相约韭吧"
-subtitle = "WeChat Official Account"
-content = "该公众号的文章合集（简介待补充）。"
-link = "/wechat_official_account_collection/xiangyue-jiuba"
+content = "Article collection of this WeChat official account (intro to be filled in)."
+link = "/wechat_official_account_collection/xiangyue_jiuba"
+
+[[items]]
+title = "Knowledge Notes"
+content = "Scattered, ready-to-use knowledge notes."
+link = "/wechat_official_account_collection/knowledge_notes"
+
+[[items]]
+title = "Reading Notes"
+content = "Notes from systematic learning."
+link = "/wechat_official_account_collection/reading_notes"
+
+[[items]]
+title = "AI Theory"
+content = "Reading notes on papers from companies like DeepSeek and Kimi."
+link = "/wechat_official_account_collection/ai_theory"
+
+[[items]]
+title = "Coding & Work with AI in Practice"
+content = "Where programmers lose their hair.."
+link = "/wechat_official_account_collection/coding_and_work_with_ai_in_practice"

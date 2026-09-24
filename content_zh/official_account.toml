@@ -1,9 +1,34 @@
 type = "card"
 title = "公众号"
-description = "我的微信公众号精选文章合集。点击卡片进入对应公众号的文章列表。"
+description = "由于每个账号只能最多配置10个合集，更详细的合集划分只能在个人主页上呈现啦~"
 
 [[items]]
 title = "相约韭吧"
-subtitle = "微信公众号"
+#subtitle = "微信公众号"
 content = "该公众号的文章合集（简介待补充）。"
-link = "/wechat_official_account_collection/xiangyue-jiuba"
+link = "/wechat_official_account_collection/xiangyue_jiuba"
+
+[[items]]
+title = "知识随记"
+#subtitle = "微信公众号"
+content = "记录一些零散的、即学即用的知识~"
+link = "/wechat_official_account_collection/knowledge_notes"
+
+[[items]]
+title = "读书笔记"
+#subtitle = "微信公众号"
+content = "记录一些系统学习的知识~"
+link = "/wechat_official_account_collection/reading_notes"
+
+[[items]]
+title = "AI 理论"
+#subtitle = "微信公众号"
+content = "记录一些 DeepSeek、Kimi 等公司发表论文的阅读笔记~"
+link = "/wechat_official_account_collection/ai_theory"
+
+[[items]]
+title = "Coding & Work with AI 实践"
+#subtitle = "微信公众号"
+content = "码农掉发地、、"
+link = "/wechat_official_account_collection/coding_and_work_with_ai_in_practice"
+
