@@ -6,6 +6,7 @@ import { Metadata } from 'next';
 import CardPage from '@/components/pages/CardPage';
 import WeChatBackButton from '@/components/pages/WeChatBackButton';
 import { CardPageConfig } from '@/types/page';
+import { applyArticleCountSubtitles } from '@/lib/wechatCollection';
 
 const COLLECTION_DIR = path.join(process.cwd(), 'content', 'wechat_official_account_collection');
 const COLLECTION_BASE_URL = '/wechat_official_account_collection';
@@ -166,6 +167,11 @@ export default async function WeChatCollectionPage({ params }: { params: Promise
   // page is the root level and has none).
   const parentHref = findParentHref(segments);
 
+  // Collection pages are single-locale; pick the count label language from
+  // the page title's content.
+  const labelLocale = /[一-鿿]/.test(config.title) ? 'zh' : 'en';
+  const displayConfig = applyArticleCountSubtitles(config, labelLocale);
+
   return (
     <div className="max-w-3xl mx-auto">
       {parentHref && (
@@ -173,7 +179,7 @@ export default async function WeChatCollectionPage({ params }: { params: Promise
           <WeChatBackButton href={parentHref} />
         </div>
       )}
-      <CardPage config={config} />
+      <CardPage config={displayConfig} />
     </div>
   );
 }

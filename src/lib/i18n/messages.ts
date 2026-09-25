@@ -48,6 +48,7 @@ export interface LocaleMessages {
   };
   collection: {
     back: string;
+    articleCount: string;
   };
   footer: {
     lastUpdated: string;
@@ -105,6 +106,7 @@ const en: LocaleMessages = {
   },
   collection: {
     back: '← Back',
+    articleCount: '{count} articles',
   },
   footer: {
     lastUpdated: 'Last updated',
@@ -162,6 +164,7 @@ const zh: LocaleMessages = {
   },
   collection: {
     back: '← 返回',
+    articleCount: '共 {count} 篇文章',
   },
   footer: {
     lastUpdated: '最近更新',

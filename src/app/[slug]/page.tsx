@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import { getPageConfig, getMarkdownContent, getBibtexContent } from '@/lib/content';
 import { getConfig } from '@/lib/config';
 import { parseBibTeX } from '@/lib/bibtexParser';
+import { applyArticleCountSubtitles } from '@/lib/wechatCollection';
 import DynamicPageClient, { type DynamicPageLocaleData } from '@/components/pages/DynamicPageClient';
 import {
   BasePageConfig,
@@ -43,7 +44,7 @@ function loadDynamicPageData(slug: string, locale?: string): DynamicPageLocaleDa
   if (pageConfig.type === 'card') {
     return {
       type: 'card',
-      config: pageConfig as CardPageConfig,
+      config: applyArticleCountSubtitles(pageConfig as CardPageConfig, locale ?? ''),
     };
   }
 
