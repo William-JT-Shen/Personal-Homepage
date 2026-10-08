@@ -3,8 +3,8 @@ title = "Generative AI and Stochastic Thermodynamics"
 description = "生成式AI & 随机热力学 —— 自由能视角"
 
 [[items]]
-title = "离散随机控制系统的动态规划法"
+title = "Introduction & Mathematics Preliminaries"
 #subtitle = "微信公众号"
 date = "2026/10/8"
-content = "介绍了离散随机系统的最优控制动态规划法，分别针对完全状态信息和不完全信息情景，通过“逆时针递推求贝尔曼泛函关系、顺时针迭代求最优控制与状态估计”的流程求解，并附有统计线性化与准最优线性滤波等关键推导。"
+content = "揭示生成式AI与非平衡态随机热力学之间的深层联系。围绕“自由能”这一核心概念，阐述了ELBO、变分推断与物理中自由能变分推断的数学等价性，并说明扩散模型如何逆转热力学第二定律的加噪过程，从噪声中重建数据样本"
 link = "https://mp.weixin.qq.com/s/1HJsAFjN3JhVyzV0c3OSBA"
