@@ -3,7 +3,12 @@ title = "相约韭吧"
 description = "在股市里振兴消费，从我做起"
 
 
-
+[[items]]
+title = "量化·策略：在国内市场中找到对冲纳指的组合（结论：对冲不了，全部买债）"
+date = "2026/10/13"
+content = "研究国内能否对冲纳指。以AI资本开支风险为背景，用因子模型、BackTrader回测、PPO和MPC，尝试以国内指数合成纳指空头。实证年化跟踪误差21.6%，相关性仅0.105。结论：国内资产与纳指近零相关，非负权重下无法有效对冲。"
+link = "https://mp.weixin.qq.com/s/KDvRCrXPv_to4iMvwYzflg"
+image = "/wechat_images/Nasdaq_personal.png"
 
 [[items]]
 title = "量化·策略·布林线"
