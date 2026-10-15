@@ -1,3 +1,9 @@
 type = "card"
 title = "专题研究"
 description = "针对某些 topic 整理的内容~（不依照某篇文章展开）"
+
+[[items]]
+title = "Oscillatory-ML"
+date = "2026/10"
+content = "详见 https://github.com/Jessieggg/Oscillatory-ML"
+link = "/wechat_official_account_collection/reading_notes_folder/generative_ai_and_stochastic_thermodynamics"
