@@ -5,5 +5,5 @@ description = "针对某些 topic 整理的内容~（不依照某篇文章展开
 [[items]]
 title = "Oscillatory-ML"
 date = "2026/10"
-content = "参考资料详见 https://github.com/Jessieggg/Oscillatory-ML"
+content = "参考资料详见 (Oscillatory-ML)[https://github.com/Jessieggg/Oscillatory-ML]"
 link = "/wechat_official_account_collection/reading_notes_folder/oscillatory_ml"
