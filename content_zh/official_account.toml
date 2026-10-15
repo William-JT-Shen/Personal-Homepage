@@ -21,6 +21,12 @@ content = "记录一些系统学习的知识~"
 link = "/wechat_official_account_collection/reading_notes"
 
 [[items]]
+title = "专题研究"
+#subtitle = "微信公众号"
+content = "针对某些 topic 整理的内容~（不依照某篇文章展开）"
+link = "/wechat_official_account_collection/monographic_study"
+
+[[items]]
 title = "AI 理论"
 #subtitle = "微信公众号"
 content = "记录一些 DeepSeek、Kimi 等公司发表论文的阅读笔记~"
