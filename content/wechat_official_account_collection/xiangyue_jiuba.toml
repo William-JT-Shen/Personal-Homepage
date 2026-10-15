@@ -8,25 +8,25 @@ title = "量化·策略：在国内市场中找到对冲纳指的组合（结论
 date = "2026/10/13"
 content = "研究国内能否对冲纳指。以AI资本开支风险为背景，用因子模型、BackTrader回测、PPO和MPC，尝试以国内指数合成纳指空头。实证年化跟踪误差21.6%，相关性仅0.105。结论：国内资产与纳指近零相关，非负权重下无法有效对冲。"
 link = "https://mp.weixin.qq.com/s/KDvRCrXPv_to4iMvwYzflg"
-image = "/wechat_images/Nasdaq_personal.png"
+image = "/wechat_images/Nasdaq_personal.webp"
 
 [[items]]
 title = "量化·策略·布林线"
 date = "2025/11/28"
 content = "介绍了布林线量化交易策略，涵盖其原理、Python代码实现、参数网格搜索优化、Backtrader回测框架应用，以及将中轨替换为考夫曼自适应均线（KAMA）的改进探索"
 link = "https://mp.weixin.qq.com/s/iPjaZEIDTdJDfC-lgKTMpg"
-image = "/wechat_images/bollinger_bands.png"
+image = "/wechat_images/bollinger_bands.webp"
 
 [[items]]
 title = "量化•回测系统•Backtrader"
 date = "2025/09/19"
 content = "关于使用 Backtrader 库进行量化回测的入门教程，涵盖安装、回测框架搭建、策略编写、Cerebro 引擎及数据源等核心内容"
 link = "https://mp.weixin.qq.com/s/jiB7Ixj4gjPvp2UK1j3Trw"
-image = "/wechat_images/backtrader.png"
+image = "/wechat_images/backtrader.webp"
 
 [[items]]
 title = "量化•数据获取•Akshare"
 date = "2025/09/01"
 content = "介绍了开源Python金融数据工具AKShare，涵盖其概览、安装方法及股票数据接口（如上交所、深交所市场总貌、地区交易排序、行业成交等）的详细使用说明"
 link = "https://mp.weixin.qq.com/s/t0yDh1SuI9Qbg7WOCo4wdg"
-image = "/wechat_images/akshare.png"
+image = "/wechat_images/akshare.webp"

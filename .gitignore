@@ -51,3 +51,6 @@ next-env.d.ts
 
 # local scripts
 launcher-test.log
+
+# originals of the optimised public/ images (kept locally; they remain in git history)
+/images_original/
