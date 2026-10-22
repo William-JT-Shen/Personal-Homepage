@@ -23,7 +23,7 @@ link = "/wechat_official_account_collection/reading_notes"
 [[items]]
 title = "专题研究"
 #subtitle = "微信公众号"
-content = "针对某些 topic 整理的内容~（不依照某篇文章展开）"
+content = "针对某些 topic 整理的内容~"
 link = "/wechat_official_account_collection/monographic_study"
 
 [[items]]

@@ -20,7 +20,7 @@ link = "/wechat_official_account_collection/reading_notes"
 [[items]]
 title = "Monographic Study"
 #subtitle = "微信公众号"
-content = "Content organized around certain topics (not based on a specific article)"
+content = "Content organized around certain topics"
 link = "/wechat_official_account_collection/monographic_study"
 
 [[items]]
