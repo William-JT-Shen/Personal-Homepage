@@ -3,6 +3,13 @@ title = "Coding & Work with AI 实践"
 description = "业余码农掉发地、、"
 
 [[items]]
+title = "AI Agent of Paper Reading Note：把论文转换成通俗易懂的读书笔记"
+date = "2026/10/23"
+content = "介绍开源论文精读工具Paper Reading Note，核心是把论文转化为可复核、可比较、可行动的结构化笔记，强调证据定位、公式推导链与批判性局限分析，并配质量自检脚本"
+link = "https://mp.weixin.qq.com/s/n8hSQ5DHKBLe03a5pEGjaw"
+image = "/wechat_images/paper_reading_note.webp"
+
+[[items]]
 title = "编程实践积累·用 Selenium + Sci-Hub 批量爬取学术论文"
 date = "2026/06/06"
 content = "详细介绍了如何利用 Selenium 和 Sci-Hub 构建一个自动化工具，实现根据 BibTeX 文件批量下载学术论文 PDF 的功能"

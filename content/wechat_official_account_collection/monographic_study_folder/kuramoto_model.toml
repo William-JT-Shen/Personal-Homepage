@@ -1,2 +1,7 @@
 type = "card"
 title = "Kuramoto 模型"
+
+[[items]]
+title = "Foundations of Kuramoto Synchronization"
+date = "2026/10"
+link = "/wechat_official_account_collection/monographic_study_folder/kuramoto_model/foundations_of_kuramoto_synchronization"
