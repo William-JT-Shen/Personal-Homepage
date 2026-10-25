@@ -1,0 +1,8 @@
+type = "card"
+title = "Foundations of Kuramoto Synchronization"
+
+[[items]]
+title = "Winfree 1967：弱耦合振子群体的同步阈值与频率偏移"
+date = "2026/10/25"
+link = "https://mp.weixin.qq.com/s/3klE_SPBy6q5y7ji9MyIcQ"
+image = "/wechat_images/winfree_1967.webp"
