@@ -33,6 +33,11 @@ content = "记录一些 DeepSeek、Kimi 等公司发表论文的阅读笔记~"
 link = "/wechat_official_account_collection/ai_theory"
 
 [[items]]
+title = "AI4Science"
+content = "一些AI for Science工作的读书笔记~"
+link = "/wechat_official_account_collection/ai4science"
+
+[[items]]
 title = "Coding & Work with AI 实践"
 #subtitle = "微信公众号"
 content = "业余码农掉发地、、"
