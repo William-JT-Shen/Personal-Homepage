@@ -1,0 +1,10 @@
+type = "card"
+title = "AI4Science"
+description = "一些AI for Science工作的读书笔记~"
+
+[[items]]
+title = "SCIEXPLORER：让大语言模型自主探索物理模型"
+date = "2026/11/11"
+content = "SCIEXPLORER 只给大模型代码、绘图与通用实验接口，让它自己设计实验，从观测里恢复方程和哈密顿量。"
+link = "https://mp.weixin.qq.com/s/0Ewy85K5VSjLpgrCJvjeCw"
+image = "/wechat_images/sciexplorer.webp"

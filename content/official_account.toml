@@ -29,6 +29,11 @@ content = "Reading notes on papers from companies like DeepSeek and Kimi."
 link = "/wechat_official_account_collection/ai_theory"
 
 [[items]]
+title = "AI4Science"
+content = "Some reading notes on AI for Science work."
+link = "/wechat_official_account_collection/ai4science"
+
+[[items]]
 title = "Coding & Work with AI in Practice"
 content = "Where amateur programmers lose their hair.."
 link = "/wechat_official_account_collection/coding_and_work_with_ai_in_practice"
