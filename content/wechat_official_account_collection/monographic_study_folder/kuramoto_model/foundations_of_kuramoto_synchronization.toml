@@ -2,7 +2,14 @@ type = "card"
 title = "Foundations of Kuramoto Synchronization"
 
 [[items]]
+title = "Kuramoto 1984（总览）：相位约化框架下的同步、化学波与湍流"
+date = "2026/11/17"
+link = "https://mp.weixin.qq.com/s/6Gq5CVYveuKOBd1O0LpYLw"
+image = "/wechat_images/kuramoto_1984_1.webp"
+
+[[items]]
 title = "Winfree 1967：弱耦合振子群体的同步阈值与频率偏移"
 date = "2026/10/25"
 link = "https://mp.weixin.qq.com/s/3klE_SPBy6q5y7ji9MyIcQ"
 image = "/wechat_images/winfree_1967.webp"
+
