@@ -3,6 +3,12 @@ title = "专题研究"
 description = "针对某些 topic 整理的文章内容~"
 
 [[items]]
+title = "算力期货"
+date = "2026/11"
+link = "/wechat_official_account_collection/monographic_study_folder/compute_futures"
+
+
+[[items]]
 title = "Kuramoto 模型"
 date = "2026/10"
 content = "参考资料详见 [Oscillatory-ML](https://github.com/Jessieggg/Oscillatory-ML)"

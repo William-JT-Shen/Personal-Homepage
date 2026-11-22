@@ -1,0 +1,9 @@
+type = "card"
+title = "算力期货"
+
+[[items]]
+title = "Bandi等 2026：合成期货给出的算力风险溢价"
+date = "2026/11/17"
+content = "精读Bandi & Su（2026）论文，用租约曲线合成算力期货，发现H100年化风险溢价约26%，为GPU期货定价提供早期证据。"
+link = "https://mp.weixin.qq.com/s/yep3OhwfYebnmxxercl--g?poc_token=HFqZAmuj7Jj762GAJ21hvq99hzeDAufXHvLDyRBK"
+image = "/wechat_images/bandi_2026.webp"

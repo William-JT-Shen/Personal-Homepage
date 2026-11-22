@@ -4,12 +4,14 @@ title = "Foundations of Kuramoto Synchronization"
 [[items]]
 title = "Kuramoto 1984（总览）：相位约化框架下的同步、化学波与湍流"
 date = "2026/11/17"
+content = "Kuramoto 1984经典著作导读：相位约化框架统一处理耦合振子同步、化学波与湍流，系列总览篇"
 link = "https://mp.weixin.qq.com/s/6Gq5CVYveuKOBd1O0LpYLw"
 image = "/wechat_images/kuramoto_1984_1.webp"
 
 [[items]]
 title = "Winfree 1967：弱耦合振子群体的同步阈值与频率偏移"
 date = "2026/10/25"
+content = "解读了Winfree 1967年关于弱耦合振子群体同步阈值与频率偏移的经典论文，指出其将同步化为“耦合强度×频率密度”的阈值问题，是Kuramoto模型的前身"
 link = "https://mp.weixin.qq.com/s/3klE_SPBy6q5y7ji9MyIcQ"
 image = "/wechat_images/winfree_1967.webp"
 
